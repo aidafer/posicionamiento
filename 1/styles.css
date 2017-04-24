@@ -1,0 +1,36 @@
+.padre{
+
+}
+
+.uno{
+  height: 300px;
+  width: 300px;
+  margin: 40px;
+  padding: 30px;
+  background-color: red;
+  margin-left: 100px;
+  margin-top: 50px;
+  position: relative;
+}
+
+.dos{
+  height: 300px;
+  width: 300px;
+  margin: 40px;
+  padding: 30px;
+  background-color: pink;
+  margin-right: 150px;
+  margin-top: -320px;
+  position: relative;
+}
+
+.tres{
+  height: 300px;
+  width: 300px;
+  margin: 40px;
+  padding: 30px;
+  background-color: yellow;
+  margin-left: 180px;
+  margin-top: -240px;
+  position: relative;
+}
